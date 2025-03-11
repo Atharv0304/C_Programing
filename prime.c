@@ -11,6 +11,7 @@ int main(){
         if (num%a==0){
             count++;
             
+            
         }
         a++;
         
